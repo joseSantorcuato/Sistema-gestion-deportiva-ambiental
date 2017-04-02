@@ -1,0 +1,3 @@
+ 
+Se respaldo a las  18:24:0 del dia 2016-12-23
+sensor 1: 0  hora: 18:24:0  fecha: 2016-12-23
